@@ -21,6 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-firebase-debug.log
-ui-debug.log
 .env
+
+# Firebase debug log files
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
